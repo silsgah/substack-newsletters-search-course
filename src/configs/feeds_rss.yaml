@@ -1,4 +1,7 @@
 feeds:
+- name: "ML Educational Series"
+  author: "Silas Kwabla Gah"
+  url: "https://kwablagah.substack.com/feed"
 - name: "AI Echoes"
   author: "Benito Martin"
   url: "https://aiechoes.substack.com/feed"

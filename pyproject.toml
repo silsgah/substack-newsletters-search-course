@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "A pipeline to retrieve Newsletters from Substack"
 readme = "README.md"
 authors = [
-    {name = "Benito Martin"}
+    {name = "Silas Kwabla Gah"}
 ]
 license = {text = "MIT License"}
 requires-python = ">=3.12"
